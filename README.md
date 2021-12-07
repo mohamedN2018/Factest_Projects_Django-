@@ -5,9 +5,10 @@
 Step -- 1
    in commend line = python manage.py migrate
    
+   
+![Captuffre](https://user-images.githubusercontent.com/49358099/144981466-91de5081-828c-43d3-b995-98c0f1fa56fe.PNG)
 
  
-![Captusre](https://user-images.githubusercontent.com/49358099/144981313-7b914a46-e1f2-4fdb-bbc6-13365dd0863b.PNG)
 
 Step -- 2
     in commend line = " python manage.py createsuperuser " # has admin
